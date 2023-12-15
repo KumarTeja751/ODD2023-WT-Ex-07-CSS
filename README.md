@@ -84,7 +84,8 @@ a {
 ### Webpage's color scheme when it is on larger devices like pcs and desktops.
 
 
-![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-07-CSS/assets/80164014/bba29784-6dd6-4137-b0e7-8014847e7ade)
+![image](https://github.com/KumarTeja751/ODD2023-WT-Ex-07-CSS/assets/144947756/ecbf1e38-2e1c-4b44-bcf1-e5ca63245a11)
+
 
 
 ### Webpage's color scheme when it is on smaller devices like smart phones.
@@ -175,7 +176,8 @@ Refine styles based on testing feedback, making adjustments for better responsiv
 ```
 # Output :
 ## Webpage Design when opened on large width devices like pc
-![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-07-CSS/assets/80164014/0367377e-ffd9-427e-967e-db676a668d55)
+![image](https://github.com/KumarTeja751/ODD2023-WT-Ex-07-CSS/assets/144947756/75b1792a-daa4-4657-888f-6026b48ec88a)
+
 
 ## Webpage Design when opened on small width devices like mobile phones
 ![WhatsApp Image 2023-12-12 at 20 25 10_216807ea](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-07-CSS/assets/80164014/111ed8a6-5c68-47fa-9170-367e1fab62a6)
@@ -245,7 +247,7 @@ Test the webpage on devices with varying orientations to ensure the styles adapt
 ```
 # Output :
 ## Webpage's background colour is purple when opened on landscape orientation (pc)
-![image](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-07-CSS/assets/80164014/da57afc4-46ed-4d79-a3d7-a9aa59b38ef6)
+![image](https://github.com/KumarTeja751/ODD2023-WT-Ex-07-CSS/assets/144947756/c90cfef1-c088-4434-b800-27e5f82bc2ad)
 
 ## Webpage's background colour changes to light green when opened on portriat orientation (mobile phone)
 ![WhatsApp Image 2023-12-12 at 19 46 40_2ea08ce5](https://github.com/SANTHAN-2006/ODD2023-WT-Ex-07-CSS/assets/80164014/a05d674c-eb3a-47d5-a65b-1c9a67bb1acf)
