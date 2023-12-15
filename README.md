@@ -1,6 +1,6 @@
 # AIM :
 ## To interpret the functionalities of media queries in html and css.
-## Developed By : Kumar Teja 
+## Developed By : Kumar Teja N
 ## Register Number : 212223230132
 # Objective 1 :
 ### Using CSS media queries to modify the webpage's color scheme.
